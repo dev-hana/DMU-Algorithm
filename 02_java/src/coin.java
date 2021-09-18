@@ -1,7 +1,7 @@
 // 거스름 돈: 최소한의 동전 개수
 import java.util.Scanner;
 
-public class change {
+public class coin {
 
   public static void main(String[] args) {
 
