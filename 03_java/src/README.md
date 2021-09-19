@@ -18,4 +18,5 @@
 #### ATM.java
 - ATM
 - 결과:   
-![image](https://user-images.githubusercontent.com/46733911/133892181-db889dbe-59b7-46dd-afae-dc91715d9715.png)
+![image](https://user-images.githubusercontent.com/46733911/133928075-465d3913-096d-4567-b791-db67a5419428.png)
+
