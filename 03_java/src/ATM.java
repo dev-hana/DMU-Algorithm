@@ -1,5 +1,5 @@
+import java.util.Arrays;
 import java.util.Scanner;
-import java.util.stream.Stream;
 
 public class ATM {
 
@@ -7,12 +7,13 @@ public class ATM {
     Scanner scann = new Scanner(System.in);
     int n = scann.nextInt();
 
-    int[] p = new int[n];
-    p = Array.sort(p);
+    Integer[] p = new Integer[n];
+
 
     for (int i = 0; i < n; i++){
       p[i] = scann.nextInt();
     }
+    Arrays.sort(p);
 
     int result = 0;
     int temp = 0;
