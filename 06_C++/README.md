@@ -1,22 +1,24 @@
-## 5주차
-### C
+## 6주차
+### C++
 
-#### upDown.c
-- 상하 좌우
+#### DFS.cpp
+- DFS
 - 결과:  
-![image](https://user-images.githubusercontent.com/46733911/136398616-618b3506-010b-4eb0-b18e-136827ea7fa5.png)  
+![image](https://user-images.githubusercontent.com/46733911/136748839-fad48557-189d-4dce-bf25-1941564002e0.png)  
 
 
-#### timeForExist3.c
+#### BFS.cpp
 
-- 시각  
+- BFS  
 - 결과:  
-![image](https://user-images.githubusercontent.com/46733911/136398735-53b38378-fa5a-450b-a02a-7a484d6d9df2.png)   
+![image](https://user-images.githubusercontent.com/46733911/136748848-d524aab4-57ed-4b22-ba59-59aa13dc5669.png)
+   
 
 
 
-#### nightOfRoyal.c
+#### FreezeIce.c
 
-- 왕실의 나이트   
+- 음료수 얼리기   
 - 결과:  
-![image](https://user-images.githubusercontent.com/46733911/136398830-56a64efe-6d8b-4092-876f-188081ba2bb9.png)   
+![image](https://user-images.githubusercontent.com/46733911/136748702-f3ae648c-c3be-4bbd-a02c-fbf2b3f3a34c.png)
+   
