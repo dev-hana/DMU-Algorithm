@@ -1,13 +1,13 @@
 ## 6주차
-### C++
+### Python
 
-#### DFS.cpp
+#### DFS.py
 - DFS
 - 결과:  
 ![image](https://user-images.githubusercontent.com/46733911/136748839-fad48557-189d-4dce-bf25-1941564002e0.png)  
 
 
-#### BFS.cpp
+#### BFS.py
 
 - BFS  
 - 결과:  
@@ -16,7 +16,7 @@
 
 
 
-#### FreezeIce.c
+#### FreezeIce.py
 
 - 음료수 얼리기   
 - 결과:  
