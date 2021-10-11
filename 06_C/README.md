@@ -20,5 +20,5 @@
 
 - 음료수 얼리기   
 - 결과:  
-![image](https://user-images.githubusercontent.com/46733911/136748702-f3ae648c-c3be-4bbd-a02c-fbf2b3f3a34c.png)
+![image](https://user-images.githubusercontent.com/46733911/136749729-821b6840-d271-49b3-bdc8-42c0402a48cc.png)
    
