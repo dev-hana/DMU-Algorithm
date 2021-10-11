@@ -4,7 +4,7 @@
 #### DFS.cpp
 - DFS
 - 결과:  
-![image](https://user-images.githubusercontent.com/46733911/136748839-fad48557-189d-4dce-bf25-1941564002e0.png)  
+![image](https://user-images.githubusercontent.com/46733911/136749548-de1c7e37-52ca-4df3-a8c8-f76bb71a4b91.png)  
 
 
 #### BFS.cpp
