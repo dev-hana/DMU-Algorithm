@@ -4,7 +4,7 @@
 #### DFS.c
 - DFS
 - 결과:  
-![image](https://user-images.githubusercontent.com/46733911/136748839-fad48557-189d-4dce-bf25-1941564002e0.png)  
+![image](https://user-images.githubusercontent.com/46733911/136749449-51e188e8-0bb5-4189-a161-c8b7579c52fe.png)  
 
 
 #### BFS.c
