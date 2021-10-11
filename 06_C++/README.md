@@ -16,7 +16,7 @@
 
 
 
-#### FreezeIce.c
+#### FreezeIce.cpp
 
 - 음료수 얼리기   
 - 결과:  
