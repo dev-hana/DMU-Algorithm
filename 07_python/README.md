@@ -4,7 +4,7 @@
 #### DFS.py
 - DFS
 - 결과:  
-![image](https://user-images.githubusercontent.com/46733911/136750078-3520052a-8c6e-4988-877c-befb958a94ea.png)  
+![image](https://user-images.githubusercontent.com/46733911/137614541-cb528d81-f21e-461f-b97b-3ed207ab2a9e.png)   
 
 
 #### BFS.py
