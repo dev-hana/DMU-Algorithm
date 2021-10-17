@@ -11,5 +11,5 @@
 
 - BFS  
 - 결과:  
-![image](https://user-images.githubusercontent.com/46733911/136750039-dcf0bc56-00d5-4f44-b6c7-d8d4b6e0b550.png)
+![image](https://user-images.githubusercontent.com/46733911/137613843-bf5ea5c2-5cb3-43dc-9cb3-cb4a2b6d740f.png)
    
