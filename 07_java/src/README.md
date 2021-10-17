@@ -4,7 +4,7 @@
 #### DFS.java
 - DFS
 - 결과:  
-![image](https://user-images.githubusercontent.com/46733911/136749856-9069239f-969a-44b5-9889-8f7fb559bb68.png)  
+![image](https://user-images.githubusercontent.com/46733911/137614560-644d8b3f-8c47-4c0a-9392-c607b511530e.png)    
 
 
 #### BFS.java
