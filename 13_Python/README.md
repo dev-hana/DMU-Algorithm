@@ -10,5 +10,5 @@
 #### ex02.py  
 - 문자열 압축  
 - 결과:  
-![image](https://user-images.githubusercontent.com/46733911/137613920-d43681e0-a5d7-4313-b88b-25dee04ace7e.png)
+![image](https://user-images.githubusercontent.com/46733911/143799385-c8df7c11-4e17-4801-ad00-c97762454be5.png)
    
